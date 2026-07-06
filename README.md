@@ -2,7 +2,7 @@
 
 Search an image library using natural language, powered by **CLIP** (Contrastive Language-Image Pre-training). Type *"a dog playing in the snow"* and instantly retrieve the closest matching images, no tags, no metadata, no training required.
 
-**Live demo:** *(add your Streamlit Cloud or Hugging Face Spaces link here)*
+**Live demo:** https://multimodal-image-search.streamlit.app/
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-2.1+-orange) ![Tests](https://img.shields.io/badge/tests-5%20passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
